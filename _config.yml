@@ -1,0 +1,17 @@
+# Welcome to my blog!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tutorials from Sharmila
+email: sweet.anemone@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This tutorial is targeted to those newbee developers who want to learn coding. I am a java web developer, my projects are almost all in java,springframework
+twitter_username: anemonesharmila
+github_username:  sharmilakarki
+
+# Build settings
+markdown: kramdown
